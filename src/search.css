@@ -1,0 +1,57 @@
+.sear{
+    width:650px;
+    margin-left: 50%;
+  }
+
+  #search_btn{
+      width: 50px;
+  }
+  .user{
+      margin-left:10%;
+  }
+  .row{
+      margin-left: 50%;
+  }
+  #second_nav{
+      margin-right: 50;
+      text-align: center;
+  }
+  .hemp{
+      margin-left: 2%;
+      color: rgb(157, 157, 241);
+  }
+  .tobacco{
+    color: rgb(157, 157, 241);
+}
+.home{
+    text-align: left;
+}
+.acc{
+    margin-left: 2000%;
+}
+.navs{
+    margin-left: -90%;
+}
+#col-class{
+    margin-left: -130%;
+}
+Nav.Link{
+    color:  black;
+    
+}
+#forms{
+    margin-top: -56%;
+    margin-left: -30%;
+}
+#h2s{
+    margin-top: -60;
+}
+#ship{
+    margin-left: 30%;
+}
+#add{
+    margin-left: 14%;
+}
+#drop{
+    margin-left: 20%;
+}
